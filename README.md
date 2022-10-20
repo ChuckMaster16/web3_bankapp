@@ -1,3 +1,21 @@
+after forking or download run npm init 
+
+you will need Ubuntu installed as well 
+
+ **next**
+open vscode
+ 
+ run "dfx start" in terminal 
+ 
+ open new terminal
+ run "npm start"
+ 
+ **finally app will start to run on***
+ http://172.23.239.209:8080/
+
+![tzcoin](https://user-images.githubusercontent.com/99195012/196874887-e9d6666e-9252-47a4-b097-ccb7bf70ca6f.png)
+
+
 # dbank
 
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
