@@ -16,7 +16,7 @@ open vscode
 ![tzcoin](https://user-images.githubusercontent.com/99195012/196874887-e9d6666e-9252-47a4-b097-ccb7bf70ca6f.png)
 
 
-# dbank
+# TZBank
 
 Welcome to your new dbank project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
